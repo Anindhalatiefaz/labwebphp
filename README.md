@@ -2,8 +2,8 @@
 
 |                |                            |
 | -------------- | -------------------------- |
-| <b> Nama       | Ramadhan Ardi Iman Prakoso |
-| <b> NIM        | 312210722                  |
+| <b> Nama       | Anindha Latiefa Zahra      |
+| <b> NIM        | 312210323                  |
 | <b> Kelas      | TI.22.A.3                  |
 | <b> Matakuliah | Pemrograman Web 2          |
 
